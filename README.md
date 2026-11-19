@@ -20,5 +20,4 @@ dataset/linedp/
 
 ## Status
 
-This repository currently contains only the README. Full code and comprehensive
-documentation will be released upon acceptance of the paper.
+Full code and comprehensive documentation will be released upon acceptance of the paper.
